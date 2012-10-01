@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="E2E">
+   <recordtable>
+    <record dir="0000000001" url="" tags="at, модем, гипертерминал" author="" id="1" ctime="20081210124656" name="Работа в гипертерминале с at-командами" file="text.html"/>
+   </recordtable>
+  </node>
+  <node id="1349092516366a74j264" name="Torrent">
+   <recordtable>
+    <record dir="1349092601xara2ptqfc" crypt="0" url="" tags="правила, торрент, хранители" author="baruk" id="13490926013mlhuxm9z3" ctime="20121001155641" name="Раздел Хранители" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
